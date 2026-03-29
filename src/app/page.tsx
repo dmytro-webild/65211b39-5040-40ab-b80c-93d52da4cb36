@@ -199,7 +199,7 @@ export default function LandingPage() {
           role: "CEO",
           company: "TechCorp",
           rating: 5,
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bd1in0jEh1bmabmbswboCzeNX7/portrait-of-a-tech-executive-in-a-modern-1774804313172-220c852d.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bd1in0jEh1bmabmbswboCzeNX7/portrait-of-a-tech-executive-in-a-modern-1774804313172-220c852d.png?_wi=1",
         },
         {
           id: "2",
@@ -231,7 +231,7 @@ export default function LandingPage() {
           role: "DevOps Lead",
           company: "CloudNet",
           rating: 5,
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bd1in0jEh1bmabmbswboCzeNX7/portrait-of-a-tech-executive-in-a-modern-1774804313172-220c852d.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bd1in0jEh1bmabmbswboCzeNX7/portrait-of-a-tech-executive-in-a-modern-1774804313172-220c852d.png?_wi=2",
         },
       ]}
       kpiItems={[
