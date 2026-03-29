@@ -133,7 +133,7 @@ export default function LandingPage() {
       testimonials={[
         {
           id: "1",          name: "Sarah Johnson",          role: "CEO",          company: "TechCorp",          rating: 5,
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bd1in0jEh1bmabmbswboCzeNX7/portrait-of-a-tech-executive-in-a-modern-1774804313172-220c852d.png"},
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bd1in0jEh1bmabmbswboCzeNX7/portrait-of-a-tech-executive-in-a-modern-1774804313172-220c852d.png?_wi=1"},
         {
           id: "2",          name: "Michael Chen",          role: "CTO",          company: "InnovateLab",          rating: 5,
           imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bd1in0jEh1bmabmbswboCzeNX7/portrait-of-a-software-developer-looking-1774804314770-b49ba53c.png"},
@@ -145,7 +145,7 @@ export default function LandingPage() {
           imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bd1in0jEh1bmabmbswboCzeNX7/portrait-of-a-creative-designer-clean-ae-1774804313226-ba0c431f.png"},
         {
           id: "5",          name: "Jordan Smith",          role: "DevOps Lead",          company: "CloudNet",          rating: 5,
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bd1in0jEh1bmabmbswboCzeNX7/portrait-of-a-tech-executive-in-a-modern-1774804313172-220c852d.png"},
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bd1in0jEh1bmabmbswboCzeNX7/portrait-of-a-tech-executive-in-a-modern-1774804313172-220c852d.png?_wi=2"},
       ]}
       kpiItems={[
         {
